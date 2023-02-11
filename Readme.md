@@ -6,7 +6,7 @@ Esse script consiste em migração de dados entre dois bancos diferentes.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Consulte **[Instalação](#-instala%C3%A7%C3%A3o)** para saber como instalar o projeto.
 
 ### 📋 Pré-requisitos
 
