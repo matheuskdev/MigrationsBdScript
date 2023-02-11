@@ -41,7 +41,8 @@ Caso o seu windows não aceite, abra o PowerShell como administrador e digite:
 ```
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
-Concorde com S
+Concorde com S.
+Após isso execute o passo anterior referente a ativação da venv.
 
 No ambiente virtual comece a instalar as dependências python necessárias instalando as seguintes bibliotecas:
 
@@ -65,4 +66,4 @@ Com tudo feito, pode copiar o script e colar em um novo arquivo.py no seu ambien
 
 ## ✒️ Autor
 
-* **Matheus Guilherme** - *Developoer* - [MatheusKDev](https://github.com/matheuskdev)
+* **Matheus Guilherme** - *Developer* - [MatheusKDev](https://github.com/matheuskdev)
